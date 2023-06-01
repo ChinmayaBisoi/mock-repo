@@ -1,2 +1,2 @@
 print("wkige")
-print("sgjjo")
+print("jclky")
