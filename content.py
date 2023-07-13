@@ -1,2 +1,1 @@
 print("wkige")
-print("cyykm")
